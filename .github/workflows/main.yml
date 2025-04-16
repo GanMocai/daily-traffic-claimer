@@ -1,4 +1,4 @@
-name: "Common airport Checkin"
+name: "Common Proxy Service Provider Checkin"
 
 on:
   schedule:
