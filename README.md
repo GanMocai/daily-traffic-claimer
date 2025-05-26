@@ -1,6 +1,6 @@
 # Daily-Traffic-Claimer
 
-> `main.py` and `main.yml` are copied from https://github.com/bighammer-link/jichang_checkin/
+> `main.py` and `main.yml` originally came from https://github.com/bighammer-link/jichang_checkin/
 
 Also known as proxy service porvider auto checkin.
 
